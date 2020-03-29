@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\carolina\documents\5to semestre\sistemas de operacion\proyecto so 1\project1\project1\source.cpp(92): warning C4477: 'printf' : la cadena de formato '%c' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char *'
+  Project1.vcxproj -> C:\Users\carolina\Documents\5TO SEMESTRE\SISTEMAS DE OPERACION\proyecto so 1\Project1\Debug\Project1.exe
